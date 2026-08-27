@@ -1,0 +1,27 @@
+{
+  "tracks": [
+    {
+      "id": "demo-001",
+      "title": "Test Track One",
+      "artist": "Demo Artist",
+      "album": "Demo Album",
+      "albumArtist": "Demo Artist",
+      "artwork": "https://example.com/artwork.jpg",
+      "duration": 180,
+      "trackNumber": 1,
+      "genre": "Electronic",
+      "year": 2026,
+      "url": "https://example.com/audio/test-track-one.mp3"
+    },
+    {
+      "id": "demo-002",
+      "title": "Test Track Two",
+      "artist": "Demo Artist",
+      "album": "Demo Album",
+      "artwork": "https://example.com/artwork.jpg",
+      "duration": 210,
+      "trackNumber": 2,
+      "url": "https://example.com/audio/test-track-two.mp3"
+    }
+  ]
+}
